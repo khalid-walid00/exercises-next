@@ -1,0 +1,9 @@
+.dark {
+  background-image: linear-gradient(rgb(49, 49, 49), black);
+  color: white;
+}
+
+.light {
+  background-image: linear-gradient(rgb(219, 219, 219), rgb(255, 255, 255));
+  color: black;
+}/*# sourceMappingURL=css.css.map */
